@@ -1,8 +1,4 @@
-Exercício de SASS
-Este repositório contém um exercício prático de SASS desenvolvido como parte do curso de Desenvolvedor Full Stack Python na EBAC. O objetivo do exercício é aplicar conceitos de SASS para criar estilos de forma modular e reutilizável.
+📂 Repositório de Exercícios
+Criado para armazenar os branches de exercícios feitos no curso de Desenvolvedor Full Stack Python na EBAC.
 
-Objetivo
-O exercício visa demonstrar o uso de SASS para:
-
-Variáveis: Utilizar variáveis para cores, fontes e outros estilos reutilizáveis.
-Aninhamento: Organizar o CSS de maneira hierárquica e lógica.
+⚙️ Objetivo: Organizar e versionar os exercícios desenvolvidos durante o curso, facilitando o acompanhamento do progresso e o estudo! 🚀📚
